@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 ---
 
-###Stats
+### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=graham-livingston&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
-###Languages
+### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=graham-livingston)](https://github.com/anuraghazra/github-readme-stats)
 <!-- https://github.com/jbrouwer5/Blockchain-Project -->
