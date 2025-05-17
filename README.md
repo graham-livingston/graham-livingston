@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 ### About Me
 - 🔭 I’m currently working on [Project Name/Description].
 - 🌱 I’m currently learning [Technology/Skill].
-- 👯 I’m looking to collaborate on [Type of Projects].
+<!-- - 👯 I’m looking to collaborate on [Type of Projects].
 - 🤔 I’m looking for help with [Specific Challenges].
 - 💬 Ask me about [Topics of Expertise].
 - 📫 How to reach me: [Your Email or Other Contact Info].
 - 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [Something Interesting About You].
+- ⚡ Fun fact: [Something Interesting About You]. -->
 
 ---
 
