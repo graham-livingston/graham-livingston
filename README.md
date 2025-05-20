@@ -32,14 +32,18 @@ Here are some ideas to get you started:
 ---
 
 ### About Me
-- 🔭 I’m currently working on [Project Name/Description].
-- 🌱 I’m currently learning [Technology/Skill].
+- Actively seeking full-stack or frontend engineering roles to drive innovative web solutions.
+- Currently engaged on a short-term contract at Slideflow.ai, developing and optimizing their frontend system for robust, user-centric applications.
+- Eager to leverage my background in full-stack, networking, frontend development, edge computing, and UI design to create novel user experiences.
+- Continuously expanding expertise in functional web development paradigms and exploring WebGPU for GPU-accelerated browser experiences.
+
 <!-- - 👯 I’m looking to collaborate on [Type of Projects].
 - 🤔 I’m looking for help with [Specific Challenges].
 - 💬 Ask me about [Topics of Expertise].
 - 📫 How to reach me: [Your Email or Other Contact Info].
 - 😄 Pronouns: [Your Pronouns].
 - ⚡ Fun fact: [Something Interesting About You]. -->
+
 
 ---
 
