@@ -17,17 +17,17 @@ Here are some ideas to get you started:
   <h2>Welcome!</h2>
 </div>
 
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/graham-livingston" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> -->
   <!-- <a href="https://www.grahamlivingston.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a> -->
-  <a href="https://www.grahamlivingston.com/cv.pdf" target="_blank">
+  <!-- <a href="https://www.grahamlivingston.com/cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-Download-orange?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV Badge"/>
   </a>
-</div>
+</div>-->
 
 ---
 
